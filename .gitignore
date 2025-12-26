@@ -1,0 +1,13 @@
+# Ignore config files containing secrets
+config.php
+.env
+# Ignore OS files
+.DS_Store
+Thumbs.db
+# Ignore IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+# Ignore node_modules if ever used
+node_modules/
