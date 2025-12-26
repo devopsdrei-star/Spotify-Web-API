@@ -49,9 +49,6 @@ A simple web application that allows users to search for songs, view their saved
 - `/backend/spotify_search.php?q=QUERY` — Search for tracks
 - `/backend/spotify_track.php?id=TRACK_ID` — Get track details
 
-## Postman Testing
-- See `postman_api_testing_script.txt` for sample requests and error handling.
-
 ## Credits
 - Powered by the [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
 - UI inspired by Spotify branding
